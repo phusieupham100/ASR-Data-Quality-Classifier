@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+artifacts/
+reports/
+submission/
+*.joblib
+
+training.csv
+training_audio/
+intern_task_asr_quality_classifier.pdf
+
+.env
+*.env
